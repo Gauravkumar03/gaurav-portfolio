@@ -1,14 +1,14 @@
 <!-- <div align="center">
-  <img align="center" width='750' height='250'  src="https://user-images.githubusercontent.com/101388961/185494692-c2286f2d-7eb6-49be-ac70-768d2f54f05c.gif" alt="Abhishek Kumar" />
+  <img align="center" width='750' height='250'  src="https://user-images.githubusercontent.com/101388961/185494692-c2286f2d-7eb6-49be-ac70-768d2f54f05c.gif" alt="Gaurav Kumar" />
 </div> -->
 
 <br/>
- <h1>### Hi there, I'm Abhishek Kumar 👋 </h1> 
+ <h1>### Hi there, I'm Gaurav Kumar 👋 </h1> 
  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="231">
 
-  <a href="https://github.com/Abhis113/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&left=true&width=400&height=50"></a>
+  <a href="https://github.com/Gauravkumar03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&left=true&width=400&height=50"></a>
 
-<p> <img height="20px" src="https://komarev.com/ghpvc/?username=Abhis113&label=Profile%20views&color=0e75b6&style=flat" alt="Abhis113" /> </p>
+<p> <img height="20px" src="https://komarev.com/ghpvc/?username=Gauravkumar03&label=Profile%20views&color=0e75b6&style=flat" alt="Gauravkumar03" /> </p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 <h3>A position of Full Stack Developer, so
 where I can put my experience in
@@ -19,18 +19,18 @@ skills and experience.</h3>
 
 - 👨‍💻 Checkout my [Portfolio](https://abhis113.github.io/)
 - 📋 Checkout my [Resume](https://drive.google.com/file/d/1wRA38EkkDnT64bRPJ_AnZ4-ihcYQGHKQ/view?usp=share_link)
-- 📧 How to reach me, [email](mailto:abhishekranjangecd@gmail.com) :)
+- 📧 How to reach me, [email](mailto:gauravkmadhubani@gmail.com) :)
 
-<h2 align="left">Connect with me:  <img src='https://raw.githubusercontent.com/Abhis113/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center"></h2>
+<h2 align="left">Connect with me:  <img src='https://raw.githubusercontent.com/Gauravkumar03/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center"></h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/abhishek-kumar-8915a314a/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abhis113" height="35" width="70" align="center" />
+  <a href="https://www.linkedin.com/in/gauravkmadhubani/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gauravkumar03" height="35" width="70" align="center" />
   </a>
  
 </p>
 
-<h2 align="left">Languages and Tools:  <img src = "https://raw.githubusercontent.com/Abhis113/githubProfileReadmeGenerator/main/gifs/code.gif" width = 34px height=34px align="center"> </h2>
+<h2 align="left">Languages and Tools:  <img src = "https://raw.githubusercontent.com/Gauravkumar03/githubProfileReadmeGenerator/main/gifs/code.gif" width = 34px height=34px align="center"> </h2>
 
 <p> 
 <!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="40"/>
@@ -65,11 +65,11 @@ skills and experience.</h3>
   
  </p>
 
- <h2>Quick Stats about me: <img src='https://raw.githubusercontent.com/Abhis113/githubProfileReadmeGenerator/main/gifs/github.gif' width='25px' height="25px" align="center"></h2>
+ <h2>Quick Stats about me: <img src='https://raw.githubusercontent.com/Gauravkumar03/githubProfileReadmeGenerator/main/gifs/github.gif' width='25px' height="25px" align="center"></h2>
 
 | 📊 Github Stats | 📊 Current Strek  |
 | --- | --- |
-| ![ Abhishek Kumar GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhis113&show_icons=true&theme=dark&title_color=FDA117&text_color=F2E9DB) | [![GitHub Streak](https://streak-stats.demolab.com?user=Abhis113&theme=dark)](https://git.io/streak-stats) |
+| ![ Gaurav Kumar GitHub stats](https://github-readme-stats.vercel.app/api?username=Gauravkumar03&show_icons=true&theme=dark&title_color=FDA117&text_color=F2E9DB) | [![GitHub Streak](https://streak-stats.demolab.com?user=Gauravkumar03&theme=dark)](https://git.io/streak-stats) |
 
 
 
@@ -80,7 +80,7 @@ skills and experience.</h3>
 
 <!-- | 📊 Top Languages | 📈 Contribution Graph  |
 | :--- | --- |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhis113&layout=demo&langs_count=10&hide_border=true&role=OWNER,COLLABORATOR&theme=dark&text_color=F2E9DB)](https://github.com/Abhis113/github-readme-stats)| <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Abhis113&theme=react-dark&hide_border=true&area=true&color=BDDFFF&line=6E93B5&point=F4B520" height="10%" width="100%"/> | -->
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravkumar03&layout=demo&langs_count=10&hide_border=true&role=OWNER,COLLABORATOR&theme=dark&text_color=F2E9DB)](https://github.com/Abhis113/github-readme-stats)| <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Gauravkumar03&theme=react-dark&hide_border=true&area=true&color=BDDFFF&line=6E93B5&point=F4B520" height="10%" width="100%"/> | -->
 
 
 
